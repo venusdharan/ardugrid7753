@@ -1,4 +1,4 @@
-#summary Skystream wind turbine at Etel test site (24 hours)
+#summary Skystream wind turbine at Etel test site (7 days)
 
 -----
 
